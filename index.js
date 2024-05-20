@@ -1,6 +1,5 @@
 console.log("hello world");
 
-//sadasd
 function test() {
   return 1 + 2;
 }
