@@ -10,3 +10,5 @@ const a = test();
 function second() {
   console.log(a);
 }
+
+console.log("new changes")
