@@ -1,7 +1,12 @@
 console.log("hello world");
+console.log("hello earth");
+console.log("just hello");
 
 function test() {
   return 1 + 2;
 }
 const a = test();
-console.log(a);
+
+function second() {
+  console.log(a);
+}
